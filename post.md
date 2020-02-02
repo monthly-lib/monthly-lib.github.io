@@ -7,6 +7,7 @@
 
 
 {% if page.comments %}
+<script id="dsq-count-scr" src="//monthly-lib.disqus.com/count.js" async></script>
 <div id="disqus_thread"></div>
 <script>
 
